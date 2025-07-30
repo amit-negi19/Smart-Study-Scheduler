@@ -37,3 +37,8 @@ A fully-featured productivity web application built using **Vanilla JavaScript**
 
 ## 📦 Folder Structure
 
+/study-scheduler-app
+├── index.html
+├── style.css
+├── script.js
+└── README.md
