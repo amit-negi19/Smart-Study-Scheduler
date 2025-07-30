@@ -3,6 +3,8 @@
 A fully-featured productivity web application built using **Vanilla JavaScript**, HTML, and CSS. It helps students create study plans, track sessions using a Pomodoro-style timer, view real-time analytics, and maintain consistency with daily streaks.
 
 ---
+<img width="1505" height="855" alt="Screenshot 2025-07-31 030141" src="https://github.com/user-attachments/assets/c10b839b-d2c2-4a36-9ea9-027287c19654" />
+
 
 ## 🚀 Features
 
